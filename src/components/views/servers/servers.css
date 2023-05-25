@@ -1,0 +1,27 @@
+.finder {
+  background-color: rgba(177, 177, 177, 0.23);
+  height: 75px;
+}
+
+.selectcss {
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+}
+
+.inputcss {
+  display: flex;
+  margin-left: 40px;
+  width: 50vh !important;
+}
+
+.pru {
+  margin-left: 50%;
+}
+
+.status {
+  font-weight:500;
+  letter-spacing: -0.019em;
+  color: #EB6624;
+  border-radius: 30px;
+}

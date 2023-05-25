@@ -1,0 +1,46 @@
+.card-info {
+  width: 28rem !important;
+  height: auto;
+  border: 1px solid grey;
+}
+
+.btns:hover {
+  cursor: pointer;
+}
+
+.inline {
+  display: inline;
+}
+
+.table-relation {
+  padding: 0 0 0 0 !important;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.select {
+  width: 10rem;
+}
+
+.bg-grey {
+background: #F3F3F3;
+  
+}
+
+.lo {
+  justify-content: center;
+  align-items: center;
+
+}

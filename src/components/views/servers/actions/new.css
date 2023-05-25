@@ -1,0 +1,23 @@
+.titleNew {
+  font-weight: 600;
+  line-height: 150%;
+  letter-spacing: -0.019em;
+  color: #000000;
+}
+
+.btnSave {
+  background: #ed8422 !important;
+  border-radius: 5px;
+  width: 120px;
+  height: 35px;
+  color: white !important;
+  font-weight: 600;
+  border: none;
+  margin-left: 43%;
+}
+
+.btnClose {
+  width: 120px !important;
+  height: 35px !important;
+  margin-left: 43%;
+}

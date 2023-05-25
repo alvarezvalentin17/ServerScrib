@@ -1,0 +1,27 @@
+.alignCenter {
+  margin-top: 20%;
+}
+.alignCenter1 {
+  margin-top: 20%;
+  margin-left: 40%;
+}
+
+.nameServer {
+  font-weight: bolder;
+  font-size: 20px;
+  color: black;
+  display: flex;
+  align-items: center;
+}
+
+.arrowBack {
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  margin-left: 85%;
+}

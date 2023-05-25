@@ -1,0 +1,28 @@
+.btnSave1 {
+    background: #ed8422 !important;
+    border-radius: 5px;
+    width: 120px;
+    height: 35px;
+    color: white !important;
+    font-weight: 600;
+    border: none;
+    
+  }
+  
+  .btnClose1 {
+    width: 120px !important;
+    height: 35px !important;
+  }
+
+  .icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .relationAdd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 60%;
+  }
